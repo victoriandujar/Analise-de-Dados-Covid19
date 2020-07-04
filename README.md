@@ -4,7 +4,7 @@
 # Análise de Dados Públicos em Escala Global Referente a COVID-19
 
 ## Foram Análisados os 20 Países mais Afetados pela COVID-19
-## Durante 22/01/2020 até 07/02/2020
+Durante 22/01/2020 até 07/02/2020
 
 ## Análisamos os Seguintes Tópicos
 - Casos Confirmados ao Longo do Tempo
