@@ -9,7 +9,7 @@ Durante 22/01/2020 até 07/02/2020
 - 20 Países com mais Casos Ativos
 - 20 Países com mais Casos Recuperados
 - 20 Países com mais Mortes
-- 20 Países com a pior Mortalidade e melhor Taxa de Recuperação
+- 20 Países com a pior Taxa de Mortalidade e melhor Taxa de Recuperação
 
 
 ## Origem dos Dados
