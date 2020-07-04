@@ -19,4 +19,4 @@ https://www.kaggle.com/imdevskp/corona-virus-report
 - Victoria Ferreira
 - Gustavo Lopes
 
-## 2º ADS - TURMA B
+## 3º ADS - TURMA B
