@@ -1,6 +1,3 @@
-# Analise-de-Dados-Covid19
-
-
 # Análise de Dados Públicos em Escala Global Referente a COVID-19
 
 ## Foram Análisados os 20 Países mais Afetados pela COVID-19
